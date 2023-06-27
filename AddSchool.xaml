@@ -1,0 +1,24 @@
+﻿<Window x:Class="DzinniczekWPF.AddSchool"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DzinniczekWPF"
+        mc:Ignorable="d"
+        Title="AddSchool" Height="100" Width="300" Loaded="AddSchool_Load">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Label Name ="nazwa" Grid.Row="0" Grid.Column="0">Nazwa szkoły</Label>
+        <TextBox Grid.Row="1" Grid.Column="0" Name="txt_AddedSchool"></TextBox>
+        <Button Grid.Row="1" Grid.Column="1" Name ="btn_AddSchool" Click="btn_AddSchool_Click">Dodaj</Button>
+    </Grid>
+</Window>

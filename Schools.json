@@ -1,0 +1,1241 @@
+[
+  {
+    "id": 2001,
+    "name": "ZS\u0141 Gda\u0144sk",
+    "classes": [
+      {
+        "id": 1001,
+        "name": "1A",
+        "students": [
+          {
+            "id": 9,
+            "name": "Teodora",
+            "surname": "Rogowska",
+            "age": 18,
+            "sex": false,
+            "inteligence": 2,
+            "strenght": 27
+          },
+          {
+            "id": 15,
+            "name": "Gerwazy",
+            "surname": "Kr\u00F3likowski",
+            "age": 19,
+            "sex": true,
+            "inteligence": 96,
+            "strenght": 13
+          },
+          {
+            "id": 16,
+            "name": "Korneli",
+            "surname": "Szyma\u0144ski",
+            "age": 16,
+            "sex": true,
+            "inteligence": 87,
+            "strenght": 12
+          },
+          {
+            "id": 22,
+            "name": "Sybilla",
+            "surname": "Szczepa\u0144ska",
+            "age": 19,
+            "sex": false,
+            "inteligence": 33,
+            "strenght": 35
+          },
+          {
+            "id": 26,
+            "name": "Laurenty",
+            "surname": "Jab\u0142o\u0144ski",
+            "age": 16,
+            "sex": true,
+            "inteligence": 60,
+            "strenght": 20
+          },
+          {
+            "id": 29,
+            "name": "Nataniel",
+            "surname": "Kuchta",
+            "age": 18,
+            "sex": true,
+            "inteligence": 80,
+            "strenght": 78
+          },
+          {
+            "id": 32,
+            "name": "Samuel",
+            "surname": "Ossowski",
+            "age": 17,
+            "sex": true,
+            "inteligence": 41,
+            "strenght": 21
+          },
+          {
+            "id": 34,
+            "name": "Rozalia",
+            "surname": "Mazur",
+            "age": 20,
+            "sex": false,
+            "inteligence": 61,
+            "strenght": 67
+          },
+          {
+            "id": 38,
+            "name": "Katarzyna",
+            "surname": "Milewska",
+            "age": 19,
+            "sex": false,
+            "inteligence": 29,
+            "strenght": 97
+          },
+          {
+            "id": 43,
+            "name": "J\u00F3zefina",
+            "surname": "S\u0142owik",
+            "age": 16,
+            "sex": false,
+            "inteligence": 1,
+            "strenght": 34
+          },
+          {
+            "id": 48,
+            "name": "Krystian",
+            "surname": "Lesiak",
+            "age": 15,
+            "sex": true,
+            "inteligence": 34,
+            "strenght": 91
+          },
+          {
+            "id": 50,
+            "name": "Kalistrat",
+            "surname": "Mazur",
+            "age": 14,
+            "sex": true,
+            "inteligence": 41,
+            "strenght": 83
+          },
+          {
+            "id": 51,
+            "name": "Patrycy",
+            "surname": "Pawlikowski",
+            "age": 14,
+            "sex": true,
+            "inteligence": 53,
+            "strenght": 5
+          },
+          {
+            "id": 55,
+            "name": "Hanna",
+            "surname": "Modzelewska",
+            "age": 14,
+            "sex": false,
+            "inteligence": 66,
+            "strenght": 18
+          },
+          {
+            "id": 59,
+            "name": "Janusz",
+            "surname": "Dudzik",
+            "age": 16,
+            "sex": true,
+            "inteligence": 85,
+            "strenght": 0
+          },
+          {
+            "id": 62,
+            "name": "Laurenty",
+            "surname": "Siwek",
+            "age": 19,
+            "sex": true,
+            "inteligence": 47,
+            "strenght": 28
+          },
+          {
+            "id": 66,
+            "name": "Zoe",
+            "surname": "Rogalska",
+            "age": 17,
+            "sex": true,
+            "inteligence": 80,
+            "strenght": 41
+          },
+          {
+            "id": 71,
+            "name": "Zachary",
+            "surname": "B\u0142aszczyk",
+            "age": 19,
+            "sex": true,
+            "inteligence": 73,
+            "strenght": 7
+          },
+          {
+            "id": 76,
+            "name": "Dorian",
+            "surname": "S\u0142owi\u0144ski",
+            "age": 15,
+            "sex": true,
+            "inteligence": 95,
+            "strenght": 4
+          },
+          {
+            "id": 77,
+            "name": "Lilianna",
+            "surname": "Balcerzak",
+            "age": 19,
+            "sex": false,
+            "inteligence": 69,
+            "strenght": 42
+          },
+          {
+            "id": 83,
+            "name": "Estera",
+            "surname": "Leszczy\u0144ska",
+            "age": 19,
+            "sex": false,
+            "inteligence": 4,
+            "strenght": 65
+          },
+          {
+            "id": 87,
+            "name": "Rafa\u0142",
+            "surname": "Kasprzyk",
+            "age": 17,
+            "sex": true,
+            "inteligence": 96,
+            "strenght": 34
+          },
+          {
+            "id": 88,
+            "name": "Ginewra",
+            "surname": "Jagie\u0142\u0142o",
+            "age": 16,
+            "sex": false,
+            "inteligence": 91,
+            "strenght": 82
+          },
+          {
+            "id": 92,
+            "name": "Szczepan",
+            "surname": "Nowi\u0144ski",
+            "age": 15,
+            "sex": true,
+            "inteligence": 47,
+            "strenght": 10
+          },
+          {
+            "id": 99,
+            "name": "Leon",
+            "surname": "Witczak",
+            "age": 17,
+            "sex": true,
+            "inteligence": 96,
+            "strenght": 96
+          },
+          {
+            "id": 103,
+            "name": "Grzegorz",
+            "surname": "Adamski",
+            "age": 14,
+            "sex": true,
+            "inteligence": 91,
+            "strenght": 5
+          },
+          {
+            "id": 116,
+            "name": "Krystyna",
+            "surname": "Chmiel",
+            "age": 20,
+            "sex": false,
+            "inteligence": 88,
+            "strenght": 88
+          },
+          {
+            "id": 120,
+            "name": "Reginald",
+            "surname": "Paluch",
+            "age": 19,
+            "sex": true,
+            "inteligence": 55,
+            "strenght": 39
+          },
+          {
+            "id": 121,
+            "name": "Irena",
+            "surname": "Krzy\u017Canowska",
+            "age": 20,
+            "sex": false,
+            "inteligence": 69,
+            "strenght": 16
+          },
+          {
+            "id": 125,
+            "name": "Rebeka",
+            "surname": "Kowalik",
+            "age": 15,
+            "sex": false,
+            "inteligence": 16,
+            "strenght": 8
+          },
+          {
+            "id": 135,
+            "name": "Cecylia",
+            "surname": "Tomala",
+            "age": 19,
+            "sex": false,
+            "inteligence": 75,
+            "strenght": 37
+          },
+          {
+            "id": 143,
+            "name": "Dorota",
+            "surname": "Tomala",
+            "age": 15,
+            "sex": false,
+            "inteligence": 39,
+            "strenght": 36
+          }
+        ],
+        "studentIndex": 32
+      },
+      {
+        "id": 1004,
+        "name": "2B",
+        "students": [
+          {
+            "id": 2,
+            "name": "Witalis",
+            "surname": "Mazur",
+            "age": 20,
+            "sex": true,
+            "inteligence": 30,
+            "strenght": 59
+          },
+          {
+            "id": 4,
+            "name": "Dina",
+            "surname": "W\u0105sik",
+            "age": 15,
+            "sex": false,
+            "inteligence": 25,
+            "strenght": 73
+          },
+          {
+            "id": 7,
+            "name": "Nikodem",
+            "surname": "Ma\u0142ecki",
+            "age": 16,
+            "sex": true,
+            "inteligence": 45,
+            "strenght": 88
+          },
+          {
+            "id": 12,
+            "name": "Sylwia",
+            "surname": "Wilczek",
+            "age": 15,
+            "sex": false,
+            "inteligence": 93,
+            "strenght": 53
+          },
+          {
+            "id": 17,
+            "name": "Helena",
+            "surname": "Dobosz",
+            "age": 15,
+            "sex": false,
+            "inteligence": 54,
+            "strenght": 46
+          },
+          {
+            "id": 23,
+            "name": "Antoni",
+            "surname": "Wolak",
+            "age": 19,
+            "sex": true,
+            "inteligence": 88,
+            "strenght": 22
+          },
+          {
+            "id": 24,
+            "name": "Leon",
+            "surname": "Jarosz",
+            "age": 20,
+            "sex": true,
+            "inteligence": 82,
+            "strenght": 64
+          },
+          {
+            "id": 37,
+            "name": "Angelina",
+            "surname": "Lenart",
+            "age": 15,
+            "sex": false,
+            "inteligence": 46,
+            "strenght": 71
+          },
+          {
+            "id": 63,
+            "name": "Korneli",
+            "surname": "Kopczy\u0144ski",
+            "age": 16,
+            "sex": true,
+            "inteligence": 33,
+            "strenght": 53
+          },
+          {
+            "id": 64,
+            "name": "Gertruda",
+            "surname": "Kruszewska",
+            "age": 18,
+            "sex": false,
+            "inteligence": 12,
+            "strenght": 94
+          },
+          {
+            "id": 65,
+            "name": "Gwido",
+            "surname": "Stawicki",
+            "age": 19,
+            "sex": true,
+            "inteligence": 42,
+            "strenght": 34
+          },
+          {
+            "id": 95,
+            "name": "Nadzieja",
+            "surname": "Pawlicka",
+            "age": 19,
+            "sex": false,
+            "inteligence": 98,
+            "strenght": 19
+          },
+          {
+            "id": 111,
+            "name": "Leonard",
+            "surname": "Serafin",
+            "age": 17,
+            "sex": true,
+            "inteligence": 19,
+            "strenght": 57
+          },
+          {
+            "id": 124,
+            "name": "Berta",
+            "surname": "Mika",
+            "age": 16,
+            "sex": false,
+            "inteligence": 9,
+            "strenght": 95
+          }
+        ],
+        "studentIndex": 14
+      },
+      {
+        "id": 1005,
+        "name": "xd",
+        "students": [],
+        "studentIndex": 0
+      }
+    ],
+    "classIndex": 3
+  },
+  {
+    "id": 2002,
+    "name": "SP nr 11 Gdynia",
+    "classes": [
+      {
+        "id": 1002,
+        "name": "1A",
+        "students": [
+          {
+            "id": 5,
+            "name": "Porfiriusz",
+            "surname": "Lewandowski",
+            "age": 17,
+            "sex": true,
+            "inteligence": 22,
+            "strenght": 94
+          },
+          {
+            "id": 6,
+            "name": "\u0141azarz",
+            "surname": "Kara\u015B",
+            "age": 19,
+            "sex": true,
+            "inteligence": 44,
+            "strenght": 37
+          },
+          {
+            "id": 21,
+            "name": "Eudoksja",
+            "surname": "Kowalewska",
+            "age": 18,
+            "sex": false,
+            "inteligence": 82,
+            "strenght": 86
+          },
+          {
+            "id": 27,
+            "name": "Kornel",
+            "surname": "Bielecki",
+            "age": 17,
+            "sex": true,
+            "inteligence": 12,
+            "strenght": 29
+          },
+          {
+            "id": 33,
+            "name": "Anastazja",
+            "surname": "Urba\u0144ska",
+            "age": 19,
+            "sex": false,
+            "inteligence": 54,
+            "strenght": 2
+          },
+          {
+            "id": 52,
+            "name": "Izabela",
+            "surname": "Janas",
+            "age": 16,
+            "sex": false,
+            "inteligence": 67,
+            "strenght": 64
+          },
+          {
+            "id": 53,
+            "name": "Lilia",
+            "surname": "Bielak",
+            "age": 20,
+            "sex": false,
+            "inteligence": 54,
+            "strenght": 97
+          },
+          {
+            "id": 68,
+            "name": "Tamara",
+            "surname": "G\u0142owacka",
+            "age": 19,
+            "sex": false,
+            "inteligence": 67,
+            "strenght": 97
+          },
+          {
+            "id": 73,
+            "name": "Dariusz",
+            "surname": "Ka\u0142u\u017Ca",
+            "age": 17,
+            "sex": true,
+            "inteligence": 84,
+            "strenght": 46
+          },
+          {
+            "id": 74,
+            "name": "Dina",
+            "surname": "Czerwi\u0144ska",
+            "age": 14,
+            "sex": false,
+            "inteligence": 46,
+            "strenght": 37
+          },
+          {
+            "id": 80,
+            "name": "Aurora",
+            "surname": "Wi\u015Bniewska",
+            "age": 17,
+            "sex": false,
+            "inteligence": 96,
+            "strenght": 77
+          },
+          {
+            "id": 90,
+            "name": "Borys",
+            "surname": "Czapla",
+            "age": 18,
+            "sex": true,
+            "inteligence": 82,
+            "strenght": 40
+          },
+          {
+            "id": 93,
+            "name": "Luiza",
+            "surname": "Szyszka",
+            "age": 16,
+            "sex": false,
+            "inteligence": 63,
+            "strenght": 82
+          },
+          {
+            "id": 109,
+            "name": "Aleksy",
+            "surname": "Michalik",
+            "age": 16,
+            "sex": true,
+            "inteligence": 6,
+            "strenght": 59
+          },
+          {
+            "id": 117,
+            "name": "Adam",
+            "surname": "Cybulski",
+            "age": 18,
+            "sex": true,
+            "inteligence": 69,
+            "strenght": 73
+          },
+          {
+            "id": 118,
+            "name": "Irena",
+            "surname": "St\u0119pniak",
+            "age": 18,
+            "sex": false,
+            "inteligence": 58,
+            "strenght": 81
+          },
+          {
+            "id": 130,
+            "name": "Bernard",
+            "surname": "Ja\u015Bkiewicz",
+            "age": 19,
+            "sex": true,
+            "inteligence": 78,
+            "strenght": 73
+          },
+          {
+            "id": 134,
+            "name": "Ernest",
+            "surname": "G\u00F3ral",
+            "age": 19,
+            "sex": true,
+            "inteligence": 83,
+            "strenght": 59
+          },
+          {
+            "id": 144,
+            "name": "Natan",
+            "surname": "Szulc",
+            "age": 17,
+            "sex": true,
+            "inteligence": 74,
+            "strenght": 7
+          }
+        ],
+        "studentIndex": 19
+      },
+      {
+        "id": 1005,
+        "name": "2B",
+        "students": [
+          {
+            "id": 1,
+            "name": "Franciszka",
+            "surname": "Or\u0142owska",
+            "age": 15,
+            "sex": false,
+            "inteligence": 32,
+            "strenght": 15
+          },
+          {
+            "id": 8,
+            "name": "Grzegorz",
+            "surname": "Woli\u0144ski",
+            "age": 18,
+            "sex": true,
+            "inteligence": 76,
+            "strenght": 33
+          },
+          {
+            "id": 18,
+            "name": "Seweryn",
+            "surname": "Bartnik",
+            "age": 17,
+            "sex": true,
+            "inteligence": 13,
+            "strenght": 61
+          },
+          {
+            "id": 25,
+            "name": "Nina",
+            "surname": "Adamiak",
+            "age": 15,
+            "sex": false,
+            "inteligence": 77,
+            "strenght": 34
+          },
+          {
+            "id": 36,
+            "name": "Konstantyn",
+            "surname": "Czekaj",
+            "age": 14,
+            "sex": true,
+            "inteligence": 24,
+            "strenght": 0
+          },
+          {
+            "id": 39,
+            "name": "Miko\u0142aj",
+            "surname": "Gajewski",
+            "age": 20,
+            "sex": true,
+            "inteligence": 74,
+            "strenght": 0
+          },
+          {
+            "id": 44,
+            "name": "Bibiana",
+            "surname": "Kita",
+            "age": 17,
+            "sex": false,
+            "inteligence": 34,
+            "strenght": 16
+          },
+          {
+            "id": 56,
+            "name": "Ludwik",
+            "surname": "Bednarek",
+            "age": 17,
+            "sex": true,
+            "inteligence": 68,
+            "strenght": 4
+          },
+          {
+            "id": 72,
+            "name": "Tomasz",
+            "surname": "Wojciechowski",
+            "age": 15,
+            "sex": true,
+            "inteligence": 83,
+            "strenght": 31
+          },
+          {
+            "id": 75,
+            "name": "Bertrand",
+            "surname": "Sowa",
+            "age": 16,
+            "sex": true,
+            "inteligence": 79,
+            "strenght": 17
+          },
+          {
+            "id": 78,
+            "name": "Marceli",
+            "surname": "Jagie\u0142\u0142o",
+            "age": 19,
+            "sex": true,
+            "inteligence": 80,
+            "strenght": 39
+          },
+          {
+            "id": 79,
+            "name": "Hipolit",
+            "surname": "Stolarczyk",
+            "age": 15,
+            "sex": true,
+            "inteligence": 16,
+            "strenght": 95
+          },
+          {
+            "id": 86,
+            "name": "Gertruda",
+            "surname": "Bukowska",
+            "age": 14,
+            "sex": false,
+            "inteligence": 11,
+            "strenght": 33
+          },
+          {
+            "id": 97,
+            "name": "Hilary",
+            "surname": "Olszewski",
+            "age": 16,
+            "sex": true,
+            "inteligence": 7,
+            "strenght": 90
+          },
+          {
+            "id": 105,
+            "name": "Sebastian",
+            "surname": "Michalski",
+            "age": 15,
+            "sex": true,
+            "inteligence": 81,
+            "strenght": 14
+          },
+          {
+            "id": 108,
+            "name": "Alan",
+            "surname": "Jurkowski",
+            "age": 15,
+            "sex": true,
+            "inteligence": 14,
+            "strenght": 43
+          },
+          {
+            "id": 126,
+            "name": "Seweryn",
+            "surname": "Fr\u0105ckowiak",
+            "age": 18,
+            "sex": true,
+            "inteligence": 12,
+            "strenght": 94
+          },
+          {
+            "id": 127,
+            "name": "Gabriel",
+            "surname": "Koper",
+            "age": 15,
+            "sex": true,
+            "inteligence": 38,
+            "strenght": 15
+          },
+          {
+            "id": 128,
+            "name": "Porfiry",
+            "surname": "Golec",
+            "age": 17,
+            "sex": true,
+            "inteligence": 62,
+            "strenght": 59
+          },
+          {
+            "id": 132,
+            "name": "Beniamin",
+            "surname": "Szyszka",
+            "age": 15,
+            "sex": true,
+            "inteligence": 38,
+            "strenght": 67
+          }
+        ],
+        "studentIndex": 20
+      },
+      {
+        "id": 1006,
+        "name": "3C",
+        "students": [
+          {
+            "id": 0,
+            "name": "Irma",
+            "surname": "Drozd",
+            "age": 17,
+            "sex": false,
+            "inteligence": 5,
+            "strenght": 84
+          },
+          {
+            "id": 19,
+            "name": "Kornel",
+            "surname": "Kowal",
+            "age": 14,
+            "sex": true,
+            "inteligence": 70,
+            "strenght": 4
+          },
+          {
+            "id": 20,
+            "name": "Dawid",
+            "surname": "Zi\u0119ba",
+            "age": 19,
+            "sex": true,
+            "inteligence": 60,
+            "strenght": 27
+          },
+          {
+            "id": 28,
+            "name": "Franciszka",
+            "surname": "Wypych",
+            "age": 20,
+            "sex": false,
+            "inteligence": 50,
+            "strenght": 57
+          },
+          {
+            "id": 30,
+            "name": "R\u00F3\u017Ca",
+            "surname": "Mikla\u015B",
+            "age": 20,
+            "sex": false,
+            "inteligence": 76,
+            "strenght": 66
+          },
+          {
+            "id": 31,
+            "name": "Aurora",
+            "surname": "Paszkowska",
+            "age": 16,
+            "sex": false,
+            "inteligence": 56,
+            "strenght": 51
+          },
+          {
+            "id": 41,
+            "name": "J\u00F3zefina",
+            "surname": "Sawicka",
+            "age": 14,
+            "sex": false,
+            "inteligence": 23,
+            "strenght": 67
+          },
+          {
+            "id": 45,
+            "name": "Dorota",
+            "surname": "Grzelak",
+            "age": 20,
+            "sex": false,
+            "inteligence": 71,
+            "strenght": 93
+          },
+          {
+            "id": 46,
+            "name": "Adrian",
+            "surname": "Skoczylas",
+            "age": 19,
+            "sex": true,
+            "inteligence": 29,
+            "strenght": 31
+          },
+          {
+            "id": 49,
+            "name": "Maryna",
+            "surname": "S\u0142owik",
+            "age": 17,
+            "sex": false,
+            "inteligence": 2,
+            "strenght": 83
+          },
+          {
+            "id": 57,
+            "name": "Bazyli",
+            "surname": "Czerniak",
+            "age": 14,
+            "sex": true,
+            "inteligence": 7,
+            "strenght": 14
+          },
+          {
+            "id": 61,
+            "name": "Bibiana",
+            "surname": "Molenda",
+            "age": 17,
+            "sex": false,
+            "inteligence": 71,
+            "strenght": 32
+          },
+          {
+            "id": 67,
+            "name": "Malwina",
+            "surname": "Bartkowiak",
+            "age": 15,
+            "sex": false,
+            "inteligence": 24,
+            "strenght": 22
+          },
+          {
+            "id": 69,
+            "name": "Terencjusz",
+            "surname": "Mr\u00F3z",
+            "age": 20,
+            "sex": true,
+            "inteligence": 97,
+            "strenght": 87
+          },
+          {
+            "id": 91,
+            "name": "Anna",
+            "surname": "Juszczak",
+            "age": 15,
+            "sex": false,
+            "inteligence": 15,
+            "strenght": 61
+          },
+          {
+            "id": 94,
+            "name": "Lilla",
+            "surname": "\u017Bak",
+            "age": 16,
+            "sex": false,
+            "inteligence": 46,
+            "strenght": 32
+          },
+          {
+            "id": 96,
+            "name": "Aaron",
+            "surname": "Wojtczak",
+            "age": 17,
+            "sex": true,
+            "inteligence": 91,
+            "strenght": 3
+          },
+          {
+            "id": 98,
+            "name": "Penelopa",
+            "surname": "Piechota",
+            "age": 20,
+            "sex": false,
+            "inteligence": 76,
+            "strenght": 88
+          },
+          {
+            "id": 112,
+            "name": "Polikarp",
+            "surname": "Witczak",
+            "age": 19,
+            "sex": true,
+            "inteligence": 0,
+            "strenght": 52
+          },
+          {
+            "id": 113,
+            "name": "Leon",
+            "surname": "Krukowski",
+            "age": 18,
+            "sex": true,
+            "inteligence": 17,
+            "strenght": 45
+          },
+          {
+            "id": 122,
+            "name": "Karol",
+            "surname": "Bartkowiak",
+            "age": 20,
+            "sex": true,
+            "inteligence": 45,
+            "strenght": 59
+          },
+          {
+            "id": 123,
+            "name": "Laurenty",
+            "surname": "Winiarski",
+            "age": 15,
+            "sex": true,
+            "inteligence": 21,
+            "strenght": 35
+          },
+          {
+            "id": 137,
+            "name": "Joachim",
+            "surname": "Jackowski",
+            "age": 16,
+            "sex": true,
+            "inteligence": 17,
+            "strenght": 11
+          },
+          {
+            "id": 145,
+            "name": "Seweryn",
+            "surname": "W\u0105sik",
+            "age": 16,
+            "sex": true,
+            "inteligence": 4,
+            "strenght": 27
+          }
+        ],
+        "studentIndex": 24
+      }
+    ],
+    "classIndex": 4
+  },
+  {
+    "id": 2003,
+    "name": "SP nr 50 Gda\u0144sk",
+    "classes": [
+      {
+        "id": 1003,
+        "name": "1A",
+        "students": [
+          {
+            "id": 10,
+            "name": "Oliwier",
+            "surname": "Budzi\u0144ski",
+            "age": 18,
+            "sex": true,
+            "inteligence": 57,
+            "strenght": 87
+          },
+          {
+            "id": 11,
+            "name": "Walenty",
+            "surname": "Buczy\u0144ski",
+            "age": 20,
+            "sex": true,
+            "inteligence": 60,
+            "strenght": 53
+          },
+          {
+            "id": 14,
+            "name": "W\u0142adys\u0142aw",
+            "surname": "Walczak",
+            "age": 17,
+            "sex": true,
+            "inteligence": 35,
+            "strenght": 69
+          },
+          {
+            "id": 42,
+            "name": "Reginald",
+            "surname": "K\u0119dzierski",
+            "age": 15,
+            "sex": true,
+            "inteligence": 51,
+            "strenght": 31
+          },
+          {
+            "id": 47,
+            "name": "Sergiusz",
+            "surname": "Pietras",
+            "age": 15,
+            "sex": true,
+            "inteligence": 11,
+            "strenght": 80
+          },
+          {
+            "id": 60,
+            "name": "Agnieszka",
+            "surname": "Soko\u0142owska",
+            "age": 16,
+            "sex": false,
+            "inteligence": 45,
+            "strenght": 36
+          },
+          {
+            "id": 70,
+            "name": "Nadzieja",
+            "surname": "Kujawa",
+            "age": 15,
+            "sex": false,
+            "inteligence": 75,
+            "strenght": 45
+          },
+          {
+            "id": 82,
+            "name": "Emanuel",
+            "surname": "B\u0105kowski",
+            "age": 20,
+            "sex": true,
+            "inteligence": 40,
+            "strenght": 32
+          },
+          {
+            "id": 84,
+            "name": "J\u00F3zef",
+            "surname": "Mackiewicz",
+            "age": 17,
+            "sex": true,
+            "inteligence": 67,
+            "strenght": 50
+          },
+          {
+            "id": 100,
+            "name": "Roland",
+            "surname": "Wilczek",
+            "age": 17,
+            "sex": true,
+            "inteligence": 30,
+            "strenght": 97
+          },
+          {
+            "id": 102,
+            "name": "Wanda",
+            "surname": "Czerniak",
+            "age": 19,
+            "sex": false,
+            "inteligence": 3,
+            "strenght": 9
+          },
+          {
+            "id": 106,
+            "name": "Salwator",
+            "surname": "Bujak",
+            "age": 15,
+            "sex": true,
+            "inteligence": 20,
+            "strenght": 90
+          },
+          {
+            "id": 107,
+            "name": "Rozalia",
+            "surname": "M\u0142ynarczyk",
+            "age": 14,
+            "sex": false,
+            "inteligence": 83,
+            "strenght": 62
+          },
+          {
+            "id": 115,
+            "name": "Paula",
+            "surname": "Tracz",
+            "age": 17,
+            "sex": false,
+            "inteligence": 2,
+            "strenght": 4
+          },
+          {
+            "id": 119,
+            "name": "Eudoksja",
+            "surname": "Szatkowska",
+            "age": 20,
+            "sex": false,
+            "inteligence": 58,
+            "strenght": 69
+          },
+          {
+            "id": 131,
+            "name": "Amabela",
+            "surname": "Nawrocka",
+            "age": 17,
+            "sex": false,
+            "inteligence": 42,
+            "strenght": 29
+          },
+          {
+            "id": 138,
+            "name": "Orestes",
+            "surname": "Kaniewski",
+            "age": 14,
+            "sex": true,
+            "inteligence": 15,
+            "strenght": 63
+          },
+          {
+            "id": 140,
+            "name": "Cecyliusz",
+            "surname": "Bednarek",
+            "age": 19,
+            "sex": true,
+            "inteligence": 47,
+            "strenght": 95
+          },
+          {
+            "id": 142,
+            "name": "Salwator",
+            "surname": "Dr\u00F3\u017Cd\u017C",
+            "age": 19,
+            "sex": true,
+            "inteligence": 3,
+            "strenght": 7
+          },
+          {
+            "id": 147,
+            "name": "Maurycy",
+            "surname": "\u015Awi\u0105tek",
+            "age": 14,
+            "sex": true,
+            "inteligence": 54,
+            "strenght": 90
+          },
+          {
+            "id": 149,
+            "name": "Eudoksja",
+            "surname": "Miller",
+            "age": 16,
+            "sex": false,
+            "inteligence": 84,
+            "strenght": 41
+          }
+        ],
+        "studentIndex": 21
+      }
+    ],
+    "classIndex": 1
+  }
+]

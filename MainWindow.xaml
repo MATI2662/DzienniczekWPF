@@ -1,0 +1,95 @@
+﻿<Window x:Class="DzinniczekWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DzinniczekWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="850" ResizeMode="NoResize" Activated="Main_Activated" Closing = "Main_Closed" Loaded="Main_Loaded">
+        
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width ="170"/>
+            <ColumnDefinition />
+            <ColumnDefinition Width ="170px"/>
+            <ColumnDefinition />
+            <ColumnDefinition Width ="170px"/>
+            <ColumnDefinition />
+            <ColumnDefinition Width ="170px"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition />
+            <RowDefinition Height="1.25*"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="1" Grid.Row="1" >Szkoły</Label>
+        <ListBox x:Name="Schools" Grid.Column="1" Grid.Row="2" SelectionChanged="Schools_SelectionChanged" />
+
+        <Label Grid.Column="3" Grid.Row="1" >Klasy</Label>
+        <ListBox x:Name="Classes" Grid.Column="3" Grid.Row="2" SelectionChanged="Classes_SelectionChanged" />
+
+        <Label Grid.Column="5" Grid.Row="1" >Uczniowie</Label>
+        <ListBox x:Name="Students" Grid.Column="5" Grid.Row="2" SelectionChanged="Students_SelectionChanged" />
+
+        <Label Grid.Column="7" Grid.Row="1" >Dane</Label>
+        <Label x:Name="StudentData" Grid.Column="7" Grid.Row="2" />
+
+        <Grid Grid.Column="1" Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="AddSchool" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,28,0" Height="26" VerticalAlignment="Center" Click="AddSchool_Click" >Dodaj szkołę</Button>
+
+            <Button x:Name="DeleteSchool" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Margin="28,0,0,0" Click="DeleteSchool_Click" >Usuń szkołę</Button>
+        </Grid>
+
+        <Grid Grid.Column="3" Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="AddClass" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,28,0" Click="AddClass_Click" >Dodaj klasę</Button>
+
+            <Button x:Name="DeleteClass" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Margin="28,0,0,0" Click="DeleteClass_Click" >Usuń klasę</Button>
+        </Grid>
+
+        <Grid Grid.Column="5" Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Button x:Name="AddStudent" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Margin="0,0,28,0" Click="AddStudent_Click" >Dodaj ucznia</Button>
+
+            <Button x:Name="DeleteStudent" Grid.Column="1" Grid.ColumnSpan="2" Margin="28,0,0,0" Height="26" VerticalAlignment="Center" Click="DeleteStudent_Click" >Usuń ucznia</Button>
+        </Grid>
+        <Button x:Name="EditStudent" Grid.Column="7" Grid.Row="4" Click="EditStudent_Click" >Edytuj dane ucznia</Button>
+
+    </Grid>
+</Window>
